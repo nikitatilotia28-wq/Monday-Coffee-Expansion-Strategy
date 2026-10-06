@@ -1,8 +1,8 @@
 # Monday-Coffee-Expansion-Strategy : Data-Driven Store Location Analysis
 
 
-### Project Overview
-Monday Coffee has operated as an online-first D2C brand since January 2023. To accelerate brick-and-mortar D2C retail expansion, this project leverages relational database analytics (PostgreSQL/MySQL) to evaluate consumer demand, revenue density, overhead exposure, and customer acquisition efficiency across major Indian metropolitan areas.
+### Project objective:
+Monday Coffee aims to expand its physical footprint by launching three new coffee shops across major Indian cities. Since its launch in January 2023, the brand has operated as an online-first D2C business, generating strong demand and sales momentum. As a Data Analyst, the objective is to analyze transaction data, demographic profiles, and estimated real estate costs to recommend the top three optimal locations for store expansion.
 
 ### Executive Summary & Strategic Objectives
 1) Primary Objective: Identify top 3 expansion target markets for high-ROI brick-and-mortar store launches using multi-variable SQL analytics.
