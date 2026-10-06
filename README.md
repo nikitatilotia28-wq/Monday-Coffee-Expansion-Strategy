@@ -11,6 +11,8 @@ Monday Coffee has operated as an online-first D2C brand since January 2023. To a
 
 3) Data Infrastructure: Relational schema comprising city, customers, products, and sales relational entities with relational join optimizations, window functions, CTEs, and aggregated subqueries.
 
+   
+
 ### Technical Problem Statement
 Retail expansion presents capital allocation risks regarding real estate overhead vs. local market traction. This analysis addresses key strategic questions:
 
@@ -26,11 +28,15 @@ Retail expansion presents capital allocation risks regarding real estate overhea
 
 6) Growth Velocity: What is the Month-over-Month (MoM) revenue trajectory across core regional markets?
 
+   
+
 ### High-Impact Key Findings & Recommendations
 Strategic Expansion Priority Matrix
        High ARPU / Low Rent Overhead  ──►  [ PUNE ] (Top Priority)
        High Volume / High TAM Benchmark ──► [ DELHI ] (Volume Engine)
        Low Rent / High Penetration    ──►  [ JAIPUR ] (Cost-Efficient Scale)
+
+       
        
 ### Top 3 Recommended Cities for Store Launch
 1. Pune — Core Profitability Leader
